@@ -8,13 +8,24 @@
     </url>
     
     <url>
+        <loc>https://0815Sailsman.github.io/posts/</loc>
+        <lastmod>2022-09-18T18:01:20+02:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
         <loc>https://0815Sailsman.github.io/posts/helloworld/</loc>
         <lastmod>2022-09-18T18:01:20+02:00</lastmod>
     </url>
     
     <url>
-        <loc>https://0815Sailsman.github.io/posts/</loc>
-        <lastmod>2022-09-18T18:01:20+02:00</lastmod>
+        <loc>https://0815Sailsman.github.io/about/</loc>
+        <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://0815Sailsman.github.io/page/</loc>
+        <lastmod>2022-09-18T00:00:00+00:00</lastmod>
     </url>
     
     <url>
