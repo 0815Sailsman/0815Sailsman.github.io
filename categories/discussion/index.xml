@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on 10xdevjourney</title>
-    <link>https://0815Sailsman.github.io/categories/post/</link>
-    <description>Recent content in Post on 10xdevjourney</description>
+    <title>Discussion on 10xdevjourney</title>
+    <link>https://0815Sailsman.github.io/categories/discussion/</link>
+    <description>Recent content in Discussion on 10xdevjourney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 21:41:16 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 21:41:16 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/categories/discussion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What even is a 10x-Dev?</title>
       <link>https://0815Sailsman.github.io/posts/what-even-is-a-10xdev/</link>
@@ -15,17 +15,6 @@
       <guid>https://0815Sailsman.github.io/posts/what-even-is-a-10xdev/</guid>
       <description>One of the reasons I am starting this blog is my interest in the concept of the 10x developer. Said to be ten times as efficient as their coworkers, these mystical creatures would be the pinnacle of modern software development, envied by their peers and searched for by hiring teams around the world.
 So, the question I want to answer is: Is the concept of the 10x developer real or just that: A concept.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://0815Sailsman.github.io/posts/hello-world/</link>
-      <pubDate>Sun, 18 Sep 2022 18:01:20 +0200</pubDate>
-      
-      <guid>https://0815Sailsman.github.io/posts/hello-world/</guid>
-      <description>This is my first blog post!
-To celebrate, here is a small tutorial how to print &amp;ldquo;Hello World&amp;rdquo; to the console in Java!
-public static void main(String[] args) { System.out.println(&amp;#34;Hello World&amp;#34;); } </description>
     </item>
     
   </channel>

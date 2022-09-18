@@ -6,7 +6,17 @@
     <description>Recent content on 10xdevjourney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 21:13:53 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 21:41:16 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What even is a 10x-Dev?</title>
+      <link>https://0815Sailsman.github.io/posts/what-even-is-a-10xdev/</link>
+      <pubDate>Sun, 18 Sep 2022 21:41:16 +0200</pubDate>
+      
+      <guid>https://0815Sailsman.github.io/posts/what-even-is-a-10xdev/</guid>
+      <description>One of the reasons I am starting this blog is my interest in the concept of the 10x developer. Said to be ten times as efficient as their coworkers, these mystical creatures would be the pinnacle of modern software development, envied by their peers and searched for by hiring teams around the world.
+So, the question I want to answer is: Is the concept of the 10x developer real or just that: A concept.</description>
+    </item>
+    
     <item>
       <title>Hugo Setup</title>
       <link>https://0815Sailsman.github.io/posts/hugo-setup/</link>

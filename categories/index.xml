@@ -6,22 +6,31 @@
     <description>Recent content in Categories on 10xdevjourney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 21:13:53 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 21:41:16 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tutorial</title>
-      <link>https://0815Sailsman.github.io/categories/tutorial/</link>
-      <pubDate>Sun, 18 Sep 2022 21:13:53 +0200</pubDate>
+      <title>Discussion</title>
+      <link>https://0815Sailsman.github.io/categories/discussion/</link>
+      <pubDate>Sun, 18 Sep 2022 21:41:16 +0200</pubDate>
       
-      <guid>https://0815Sailsman.github.io/categories/tutorial/</guid>
+      <guid>https://0815Sailsman.github.io/categories/discussion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post</title>
       <link>https://0815Sailsman.github.io/categories/post/</link>
-      <pubDate>Sun, 18 Sep 2022 18:01:20 +0200</pubDate>
+      <pubDate>Sun, 18 Sep 2022 21:41:16 +0200</pubDate>
       
       <guid>https://0815Sailsman.github.io/categories/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://0815Sailsman.github.io/categories/tutorial/</link>
+      <pubDate>Sun, 18 Sep 2022 21:13:53 +0200</pubDate>
+      
+      <guid>https://0815Sailsman.github.io/categories/tutorial/</guid>
       <description></description>
     </item>
     
