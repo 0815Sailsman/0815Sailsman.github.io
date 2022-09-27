@@ -4,22 +4,42 @@
     
     <url>
         <loc>https://0815Sailsman.github.io/</loc>
-        <lastmod>2022-09-18T21:41:16+02:00</lastmod>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
     </url>
     
     <url>
         <loc>https://0815Sailsman.github.io/posts/</loc>
-        <lastmod>2022-09-18T21:41:16+02:00</lastmod>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
         <priority>0</priority>
     </url>
     
     <url>
-        <loc>https://0815Sailsman.github.io/tags/10xdev/</loc>
-        <lastmod>2022-09-18T21:41:16+02:00</lastmod>
+        <loc>https://0815Sailsman.github.io/categories/</loc>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
     </url>
     
     <url>
-        <loc>https://0815Sailsman.github.io/categories/</loc>
+        <loc>https://0815Sailsman.github.io/tags/cybersecurity/</loc>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://0815Sailsman.github.io/posts/individual-cybersecurity/</loc>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://0815Sailsman.github.io/categories/post/</loc>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://0815Sailsman.github.io/tags/</loc>
+        <lastmod>2022-09-20T22:06:01+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://0815Sailsman.github.io/tags/10xdev/</loc>
         <lastmod>2022-09-18T21:41:16+02:00</lastmod>
     </url>
     
@@ -30,16 +50,6 @@
     
     <url>
         <loc>https://0815Sailsman.github.io/tags/meta/</loc>
-        <lastmod>2022-09-18T21:41:16+02:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://0815Sailsman.github.io/categories/post/</loc>
-        <lastmod>2022-09-18T21:41:16+02:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://0815Sailsman.github.io/tags/</loc>
         <lastmod>2022-09-18T21:41:16+02:00</lastmod>
     </url>
     

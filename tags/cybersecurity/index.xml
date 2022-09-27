@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cybersecurity on 10xdevjourney</title>
+    <link>https://0815Sailsman.github.io/tags/cybersecurity/</link>
+    <description>Recent content in cybersecurity on 10xdevjourney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 22:06:01 +0200</lastBuildDate><atom:link href="https://0815Sailsman.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Individual Cybersecurity</title>
+      <link>https://0815Sailsman.github.io/posts/individual-cybersecurity/</link>
+      <pubDate>Tue, 20 Sep 2022 22:06:01 +0200</pubDate>
+      
+      <guid>https://0815Sailsman.github.io/posts/individual-cybersecurity/</guid>
+      <description>small preamble about how this is just me talking right into the void its just a way to note a checklist to track what i still need to do
+also, i didnt feel like formatting this one so fuck you future me
+password management pw manager, use different, random passwords for everything
+Backups (incl. offsite server) store important data (especially the pw database) on backup drives. setup a small offsite server (like a raspberry pi with a harddrive attached) as an offsite backup, so in case of fire or something that destroys your data at home you dont lose all your passwords / accounts also print out your pw db for exmample from time to time.</description>
+    </item>
+    
+  </channel>
+</rss>
